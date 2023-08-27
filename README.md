@@ -7,5 +7,5 @@
  * :heavy_plus_sign: To create a JIRA Ticket
  * :x: To remove the already created task
  * To Save the Task, press SHIFT
- * Select the color as per the priority of the task
+ * Select the color as per the priority of the task. There are 4 priorities defined in this JIRA.
  * :unlock: Unlock the lock to modify it:lock: 
