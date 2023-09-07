@@ -9,4 +9,4 @@
  * To Save the Task, press SHIFT
  * Select the color as per the priority of the task. There are 4 priorities defined in this JIRA.
  * :unlock: Unlock the lock to modify it:lock:
- * we can change the priority of the ticket after its creation as well
+ * We can change the priority of the ticket after its creation as well
