@@ -4,7 +4,7 @@
 <p align=center>:heart: Visit the website and try it once https://jira-ticket.aggarwalsejal.com :heart:</p>
 
 # :speech_balloon: Functionalities:
- * :heavy_plus_sign: To create a JIRA Ticket
+ * :heavy_plus_sign: We can create a JIRA Ticket
  * :x: To remove the already created task
  * To Save the Task, press SHIFT
  * Select the color as per the priority of the task. There are 4 priorities defined in this JIRA.
